@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /image
+Disallow: /*.jpg$
+
+Sitemap: https://icc-t20-world-cup.vercel.app/sitemap.xml
+
+
